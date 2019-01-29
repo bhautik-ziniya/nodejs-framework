@@ -1,0 +1,1 @@
+exports.AppHelper = require('./AppHelper');
